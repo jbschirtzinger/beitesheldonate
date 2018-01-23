@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Cause Template
+title: Support Beit Eshel
 url: https://clean-oryx.cloudvent.net
 baseurl:
 google_analytics_key:
@@ -48,8 +48,11 @@ defaults:
     values:
       layout: "default"
 
-donation_embed: '<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/give-sheep-the-vote?hide_donation_meter=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>'
-newsletter_action: "//your-mailchimp-action-url.com"
+donation_embed: '<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/help-fund-beit-eshel" height="685px" width="100%" style="max-width:500px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest ></iframe>'
+newsletter_action: "https://website.us17.list-manage.com/subscribe/post?u=6684e49c7e897f24502c1ce42&amp;id=96cad527d6" 
+     
+
+
 
 gems:
   - jekyll-sitemap
