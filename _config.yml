@@ -2,8 +2,8 @@
 # Site
 
 title: Support Beit Eshel
-#url: "http://beitesheldonate.org/"
-#baseurl: "/beitesheldonate.org"
+url: "http://beitesheldonate.org/"
+baseurl: "/beitesheldonate.org"
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
