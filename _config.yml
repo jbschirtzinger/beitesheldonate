@@ -2,8 +2,8 @@
 # Site
 
 title: Support Beit Eshel
-url: https://clean-oryx.cloudvent.net
-baseurl:
+url: https://jbschirtzinger.github.io
+baseurl: /jbschirtzinger.github.io
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
